@@ -1,10 +1,10 @@
-# 👋🧩 Morphe Patches template
+# 👋🧩 dm161 patches
 
-Template repository for Morphe Patches.
+Testing Morphe Patches.
 
 ## ❓ About
 
-Patches for apps I like.
+Patches for apps I like - g8 invoice for now.
 
 <!-- TODO: Update this about section with a brief introduction/summary about this repo and what it offers. -->
 
